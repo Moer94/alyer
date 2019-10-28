@@ -10,7 +10,7 @@
             </div>
             <div class="eight columns">
                 <h1>
-                    Hey, I am Mohammad
+                    Hey, There
                 </h1>
             </div>
         </div>
