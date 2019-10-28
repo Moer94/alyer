@@ -12,3 +12,4 @@
 */
 
 Route::get('/', 'pagesController@index');
+Route::get('/ramesh', 'pagesController@ramesh')->name('ramesh');
