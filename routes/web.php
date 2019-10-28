@@ -11,6 +11,4 @@
 |
 */
 
-Route::get('/', function () {
-    return view('landingpage');
-});
+Route::get('/', 'pagesController@index');
